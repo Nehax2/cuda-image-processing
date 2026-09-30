@@ -1,0 +1,20 @@
+CUDA GPU Image Processing - Execution Proof
+============================================
+
+GPU: NVIDIA L4
+CUDA devices: 1
+
+Test:
+100 input images processed using CUDA.
+
+Result:
+Images processed: 100
+Processing time: 2.50748 seconds
+GPU image processing completed successfully.
+
+Input images: 100
+Output images: 100
+
+Data size:
+Input: 3.6M
+Output: 3.6M

@@ -4,5 +4,7 @@ input_images/*
 output_images/*
 results/*
 
+!results/execution_proof.txt
+
 *.o
 *.out
