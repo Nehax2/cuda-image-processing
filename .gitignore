@@ -1,0 +1,8 @@
+cuda_image_processor
+
+input_images/*
+output_images/*
+results/*
+
+*.o
+*.out
